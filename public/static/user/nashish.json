@@ -1,0 +1,34 @@
+{
+    "subscribedTribes": [
+         {
+         "name":"Universal",
+         "handle":"iPhone 4S",
+         "handleIcon":"",
+         "description":"This tribe represents all mammals with a device running Triber",
+         "iconPath":"",
+         "deetz":"stuff,things,generic shite",                
+         "uuid":"E8CB5875-70A0-42EE-9CF8-00D622315A4E"
+         },
+        {
+         "uuid": "BAA0FA19-3A4F-4FF8-83CB-A55F935CAA58",
+         "name": "Guitarist",
+         "handle" : "iPhone 4S",
+         "handleIcon" : "",
+         "description": "Guitarists unite. Whether they be steel, nylon or other. If you strum six strings, you belong",
+         "deetz":"strings,necks,pickups,knobs",
+         "iconPath": ""
+         },
+         {
+         "uuid": "ED5A70A9-BB41-41C0-A977-1A37DE01E611",
+         "name": "iOS Developer",
+         "handle" : "iPhone 4S",
+         "handleIcon" : "",
+         "description": "1f y0u're n0t an i0$ geek, then byte me, you d0n't bel0ng in this tribe. i0$ geeks unite.",
+         "deetz":"zeros,ones,bytes,ios,macs",
+         "iconPath": ""
+         }
+    ],
+    "myDeetz": {
+        "deetz" : "music, traveling, beer"
+    }
+}
